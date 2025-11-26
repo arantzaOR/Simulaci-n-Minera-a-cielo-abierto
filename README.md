@@ -1,1 +1,1 @@
-# Simulaci-n-Minera-a-cielo-abierto
+# Simulación-Minera-a-cielo-abierto
